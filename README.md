@@ -722,6 +722,7 @@ For cross-provider comparisons, consult independent benchmark methodologies in a
 - **[Portia AI](https://www.portialabs.ai/)**: Open source framework for building agents that pre-express their planned actions, share their progress and can be.
 - **[gpt4all](https://github.com/nomic-ai/gpt4all)**: A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
 - **[LMQL](https://lmql.ai/)**: LMQL is a query language for large language models.
+- **[Loadout](https://loadout-blush.vercel.app)**: Free and Pro version-pinned AI coding rule packs for Cursor, Claude Code, Copilot, and AGENTS.md.
 - **[LlamaIndex](https://www.llamaindex.ai/)**: A data framework for building LLM applications over external data.
 - **[Prediction Guard](https://www.predictionguard.com/)**: Seamlessly integrate private, controlled, and compliant Large Language Models (LLM) functionality.
 - **[Portkey](https://portkey.ai/)**: Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.
